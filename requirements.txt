@@ -1,6 +1,6 @@
 #TEST REQUIREMENTS
 
-pytest==6.1.1
+pytest==4.6
 
 requests~=2.24.0
 
